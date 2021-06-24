@@ -31,6 +31,12 @@ In it's basic format you can get away with the below as your `setup.py` file:
 from setuptools import setup
 
 setup(name="app")
+version = "1.0"
+description = "Python app"
+author = "Shahrukh"
+author_email = "abc.com"
+url = "https://trello.com/b/q3h1aWYy/devops-engineering-89"
+
 ```
 
 There is all sorts of information you could / probably should provide such as:
