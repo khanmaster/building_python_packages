@@ -36,8 +36,8 @@ setup(name="app")
 There is all sorts of information you could / probably should provide such as:
 
 * version='1.0'
-* description='Python app'
-* author='Shahrukh@Spartaglobacl'
+* description='Python FizzBuzz app'
+* author='Shahrukh@Sparta Global'
 * author_email='abc.com'
 * url='https://www.python.org/sigs/distutils-sig/'
 
